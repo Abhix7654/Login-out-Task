@@ -1,0 +1,6 @@
+{
+    "watch": ["views", "routes"],
+    "ext": "js,json,ejs",
+    "ignore": ["node_modules"],
+    "exec": "npm start"
+}
